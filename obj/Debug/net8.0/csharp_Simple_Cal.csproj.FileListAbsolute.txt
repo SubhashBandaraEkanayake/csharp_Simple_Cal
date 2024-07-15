@@ -1,0 +1,14 @@
+/Users/subhashbandaraekanayake/Desktop/2.2/Visual Programming - 22042/Simple cal/csharp_Simple_Cal/obj/Debug/net8.0/csharp_Simple_Cal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/subhashbandaraekanayake/Desktop/2.2/Visual Programming - 22042/Simple cal/csharp_Simple_Cal/obj/Debug/net8.0/csharp_Simple_Cal.AssemblyInfoInputs.cache
+/Users/subhashbandaraekanayake/Desktop/2.2/Visual Programming - 22042/Simple cal/csharp_Simple_Cal/obj/Debug/net8.0/csharp_Simple_Cal.AssemblyInfo.cs
+/Users/subhashbandaraekanayake/Desktop/2.2/Visual Programming - 22042/Simple cal/csharp_Simple_Cal/obj/Debug/net8.0/csharp_Simple_Cal.csproj.CoreCompileInputs.cache
+/Users/subhashbandaraekanayake/Desktop/2.2/Visual Programming - 22042/Simple cal/csharp_Simple_Cal/bin/Debug/net8.0/csharp_Simple_Cal
+/Users/subhashbandaraekanayake/Desktop/2.2/Visual Programming - 22042/Simple cal/csharp_Simple_Cal/bin/Debug/net8.0/csharp_Simple_Cal.deps.json
+/Users/subhashbandaraekanayake/Desktop/2.2/Visual Programming - 22042/Simple cal/csharp_Simple_Cal/bin/Debug/net8.0/csharp_Simple_Cal.runtimeconfig.json
+/Users/subhashbandaraekanayake/Desktop/2.2/Visual Programming - 22042/Simple cal/csharp_Simple_Cal/bin/Debug/net8.0/csharp_Simple_Cal.dll
+/Users/subhashbandaraekanayake/Desktop/2.2/Visual Programming - 22042/Simple cal/csharp_Simple_Cal/bin/Debug/net8.0/csharp_Simple_Cal.pdb
+/Users/subhashbandaraekanayake/Desktop/2.2/Visual Programming - 22042/Simple cal/csharp_Simple_Cal/obj/Debug/net8.0/csharp_Simple_Cal.dll
+/Users/subhashbandaraekanayake/Desktop/2.2/Visual Programming - 22042/Simple cal/csharp_Simple_Cal/obj/Debug/net8.0/refint/csharp_Simple_Cal.dll
+/Users/subhashbandaraekanayake/Desktop/2.2/Visual Programming - 22042/Simple cal/csharp_Simple_Cal/obj/Debug/net8.0/csharp_Simple_Cal.pdb
+/Users/subhashbandaraekanayake/Desktop/2.2/Visual Programming - 22042/Simple cal/csharp_Simple_Cal/obj/Debug/net8.0/csharp_Simple_Cal.genruntimeconfig.cache
+/Users/subhashbandaraekanayake/Desktop/2.2/Visual Programming - 22042/Simple cal/csharp_Simple_Cal/obj/Debug/net8.0/ref/csharp_Simple_Cal.dll
