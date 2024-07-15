@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharp_Simple_Cal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e270e8dd197504262bca3619a44ed198cd403ce1")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharp_Simple_Cal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharp_Simple_Cal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
